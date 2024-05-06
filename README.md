@@ -24,13 +24,16 @@ Node.js é um ambiente de execução de JavaScript do lado do servidor, constru�
    - Iniciei o projeto com `npm init`.
    - Organizei a estrutura de diretórios para rotas, controladores e serviços.
 
-3. **Defini as Rotas:**
+3. **Escolhi um Framework:**
+   - Optei pelo `Express.js` para facilitar a criação da API.
+
+4. **Defini as Rotas:**
    - Criei rotas para diferentes endpoints (`GET`, `POST`, etc.) conforme as necessidades.
 
-4. **Implementei a Lógica:**
+5. **Implementei a Lógica:**
    - Implementei controladores para processar as requisições e gerenciar o fluxo de dados.
 
-5. **Testei e Documentei:**
+6. **Testei e Documentei:**
    - Usei ferramentas como **Nodemon** para reiniciar automaticamente o servidor durante o desenvolvimento.
    - Testei a API com o **Postman** para garantir que todas as rotas e operações funcionassem corretamente.
    - Documentei a API para facilitar o uso e a manutenção.
